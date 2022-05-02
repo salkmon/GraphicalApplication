@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GraphicalApplication</string>
+    <string name="loading_the_game">Loading the game...</string>
+    <string name="catch_the_game">CATCH: THE GAME</string>
+    <string name="start">Start</string>
+</resources>
